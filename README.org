@@ -29,3 +29,15 @@ Commands:
 4. mkdir - make directories
 5. >     - shell redirection, standard output of first command redirected to file after '>'
 6. echo  - write arguments to the standard output
+
+** Part 4 - Python Hello World
+
+[[./images/screenshot_4.png]]
+
+The last part of the assignment was to create a "hello world" program in Python. Here are the steps:
+1. Check that python 3 (not 2) is installed `python --version`
+2. Create and edit new python file with `vim`
+3. Show contents of file (for demo purposes) with `cat`
+4. Execute program with `python` program
+
+NOTE: python 3 was already installed, so I did not have to upgrade.
