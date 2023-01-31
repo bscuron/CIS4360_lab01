@@ -8,3 +8,12 @@ The first part of this assignment was to redeem the $50.00 worth of credits. To 
 1. Clicked the "Student Coupon Retrieval Link" in the assignment document
 2. Inputted my name and Temple email address to the GCP form
 3. Redeemed the credits with the code sent to my Temple email address
+
+** Part 2 - Shell
+
+[[./images/screenshot_2.png]]
+
+The next part of the assignment was to activate the cloud shell. To complete this step I:
+1. Navigated to the top right corner of the screen
+2. Clicked the "Activate Cloud Shell" icon
+3. The cloud shell appeared at the bottom of the screen
