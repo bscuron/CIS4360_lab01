@@ -17,3 +17,15 @@ The next part of the assignment was to activate the cloud shell. To complete thi
 1. Navigated to the top right corner of the screen
 2. Clicked the "Activate Cloud Shell" icon
 3. The cloud shell appeared at the bottom of the screen
+
+** Part 3 - Shell Commands
+
+[[./images/screenshot_3.png]]
+
+Commands:
+1. ls    - list directory contents
+2. pwd   - return working directory name
+3. cd    - change directory, '.' is current directory, '..' is parent directory, '/' is root, '~' is $HOME
+4. mkdir - make directories
+5. >     - shell redirection, standard output of first command redirected to file after '>'
+6. echo  - write arguments to the standard output
