@@ -1,1 +1,10 @@
 * Lab 01
+
+** Part 1 - Credits
+
+[[./images/screenshot_1.png]]
+
+The first part of this assignment was to redeem the $50.00 worth of credits. To complete this step I:
+1. Clicked the "Student Coupon Retrieval Link" in the assignment document
+2. Inputted my name and Temple email address to the GCP form
+3. Redeemed the credits with the code sent to my Temple email address
